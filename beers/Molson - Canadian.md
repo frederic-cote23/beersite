@@ -1,12 +1,14 @@
 ---
 layout: beer
-title:  Molson Canadian
+title: Molson Canadian - Molson
+name:  Molson Canadian
 categories: 
-beerstyle: IPA
-hops: citrus
+style: 
+type: Lager
+hops: 
 abv: 5.0
+ibu:
 brewer: Molson
 country: Canada
 image_url: http://molsoncanadian.ca/en/~/media/Canadian/assets/images/carousel_mc.png
-category: [IPA, Canada, Molson]
 ---
