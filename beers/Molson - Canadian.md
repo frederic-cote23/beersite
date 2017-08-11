@@ -12,6 +12,7 @@ alcohol: Moderate
 brewer: Molson
 origin: Canada
 image_url: https://decrescente.net/images/suppliers/millercoors/molson/molson-canadian/canadian-bottle-lg.png
+season: Year round
 categories:
 ---
 

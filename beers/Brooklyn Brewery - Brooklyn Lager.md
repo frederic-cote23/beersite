@@ -12,6 +12,7 @@ alcohol: Moderate
 brewer: Brooklyn Brewery
 origin: USA
 image_url: https://decrescente.net/images/suppliers/brooklyn-brewery/brooklyn-lager/lager-bottle-lg.png
+season: Year round
 categories:
 ---
 

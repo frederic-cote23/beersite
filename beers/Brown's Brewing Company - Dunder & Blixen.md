@@ -12,6 +12,7 @@ alcohol: Very High
 brewer: Brown's Brewing Company 
 origin: USA
 image_url: https://decrescente.net/images/suppliers/browns-brewing-company/browns-dunder-blixem/dunder-blixem-draft-lg.png
+season: Year round
 categories:
 ---
 

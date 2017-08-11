@@ -12,6 +12,7 @@ alcohol: Low
 brewer: Miller Brewing Company
 origin: USA
 image_url: https://decrescente.net/images/suppliers/millercoors/miller/miller-genuine-draft/genuine-draft-bottle-lg.png
+season: Year round
 categories:
 ---
 

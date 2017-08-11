@@ -12,6 +12,7 @@ alcohol: Low
 brewer: Spoetzl Brewery
 origin: USA
 image_url: https://decrescente.net/images/suppliers/the-gambrinus-company/shiner/shiner-bock/bock-bottle-lg.png
+season: Year round
 categories:
 ---
 

@@ -12,6 +12,7 @@ alcohol: Low
 brewer: Yuengling Brewery
 origin: USA
 image_url: https://decrescente.net/images/suppliers/yuengling/yuengling-lager/lager-bottle-lg.png
+season: Year round
 categories:
 ---
 

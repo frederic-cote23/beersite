@@ -12,6 +12,7 @@ alcohol: Moderate
 brewer: Dos Esquis
 origin: Mexico
 image_url: https://decrescente.net/images/suppliers/heineken/dos-equis/dos-equis-amber/amber-bottle-lg.png
+season: Year round
 categories:
 ---
 

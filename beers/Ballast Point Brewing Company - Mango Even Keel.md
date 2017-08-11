@@ -12,6 +12,7 @@ alcohol: Low
 brewer: Ballast Point Brewing Company
 origin: USA
 image_url: https://decrescente.net/images/suppliers/constellation-brands/ballast-point/ballast-point-mango-even-keel/mango-even-keel-can-lg.png
+season: Year round
 categories:
 ---
 
