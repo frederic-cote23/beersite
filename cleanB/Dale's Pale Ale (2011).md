@@ -1,0 +1,11 @@
+---
+layout: beer
+beerImage: http://craftcans.com//candbimages/obdalesbcgear.jpg
+name: Dale's Pale Ale (2011)
+brewery: Oskar Blues Brewery
+location: Longmont, CO
+style: American Pale Ale (APA)
+formats: 12 oz.
+abv: 6.5%
+ibu: 65
+---

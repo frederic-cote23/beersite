@@ -1,0 +1,11 @@
+---
+layout: beer
+beerImage: http://craftcans.com//candbimages/greatcresccocport.jpg
+name: Great Crescent Coconut Porter
+brewery: Great Crescent Brewery
+location: Aurora, IN
+style: American Porter
+formats: 16 oz.
+abv: 5.6%
+ibu: 33
+---
